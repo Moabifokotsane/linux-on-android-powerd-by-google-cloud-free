@@ -1,5 +1,5 @@
 # linux-on-android-powerd-by-google-cloud-free
-Good day, this is a simple and fun respiratory of how to run google cloud powerd linux operating system on android device 2022. 
+Good day, this is a simple and fun repository of how to run google cloud powerd linux operating system on android device 2022. 
 
 # Requirements 
 1. Google Cloud Console with project (register account here : https://console.cloud.google.com/freetrial ) 
